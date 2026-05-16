@@ -16,7 +16,7 @@ lambda_history = zeros(maxIter, 1);
 x_history = zeros(2, maxIter);
 
 
-%% 3. Do power method
+%% 3. Do power metho
 for k = 1:maxIter
 
     y = A * x;
