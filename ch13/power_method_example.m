@@ -37,7 +37,7 @@ end
 
 
 %% 4.comparison with matlab function 
-% ------------------------------------
+
 [V, D] = eig(A);
 eigvals = diag(D);
 
